@@ -1,1 +1,1 @@
-# WstepDoProgramowania
+# Tomasz Szewa
